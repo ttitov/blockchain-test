@@ -1,8 +1,8 @@
-# blockchain-test
-Test and learn blockchain
+# Blockchain
+Test and learn Blockchain
 
 
-Example 
+**Example:**
 
 ~ curl -i http://localhost:5000/mine
 
@@ -11,3 +11,12 @@ Example
 ~ curl -X POST -H "Content-Type: application/json" -d '{
  "nodes": ["http://127.0.0.1:5001"]
 }' "http://localhost:5000/nodes/register"
+
+
+from:
+
+https://habrahabr.ru/company/everydaytools/blog/339280/
+
+original:
+
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
